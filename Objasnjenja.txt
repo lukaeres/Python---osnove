@@ -1,0 +1,13 @@
+API.py
+
+U ovom projektu sam obradio princip primjene API-a. Na jednostavnom primjeru vidimo kako API dostavlja podatke do naseg programa. Pokretanjem programa
+mozemo dobiti top 10 kripto valuta u tom momentu i njihove cijene.
+
+Manipulacija stringovima.py
+
+Najjednostavniji primjer registracije korisnika.
+Osnove manipulacije stringovima, logicko razmisljanje, uvjeti.
+
+Popis namirnica (primjena listi).py
+
+Osnove opravljanja podacima u listi.
